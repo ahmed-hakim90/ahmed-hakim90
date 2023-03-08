@@ -8,7 +8,7 @@ This is where I open-source stuff either break them or build them.
 - :telescope:  I’m currently working on [CLI-gite](https://github.com/superdynamix/cli-gite)  :wink:
 
 - 🌱 I’m currently learning **DevOps**
-- 🌱 I’m currently doing Striks on **[LeetCode](https://leetcode.com/kroking)**
+- 🌱 I’m currently doing Striks on **[LeetCode](https://leetcode.com/ahmed-hakim90)**
 
 - 💬 Ask me about **java, ts, js, Nodejs, Epxress, MongoDB, SQL, multi-threading, AWS, CI/CD, Docker**
 
@@ -18,7 +18,7 @@ This is where I open-source stuff either break them or build them.
 <p align="left">
 <a href="https://dev.to/mahmoudgalal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 <a href="https://twitter.com/eitmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-abdulhakim-sayed-471752174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hakim90" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoudgalalzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudgalalzz" height="30" width="40" /></a>
 <a href="https://instagram.com/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
