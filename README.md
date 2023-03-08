@@ -12,7 +12,7 @@ This is where I open-source stuff either break them or build them.
 
 - 💬 Ask me about **java, ts, js, Nodejs, Epxress, MongoDB, SQL, multi-threading, AWS, CI/CD, Docker**
 
-- 📫 How to reach me [@eitmg](https://twitter.com/eitmg), mail me [KroKing](mailto:krooking0@gmail.com)
+- 📫 How to reach me [@eitmg](https://twitter.com/ahmed_hakim900), mail me [KroKing](mailto:ahmedabdulhakim90@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
