@@ -1,16 +1,15 @@
 ### Hi there <div align=center><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is where I open-source stuff either break them or build them.
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudgalalz&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudgalalz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed_hakim900&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-hakim90" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eitmg" target="blank"><img src="https://img.shields.io/twitter/follow/eitmg?logo=twitter&style=for-the-badge" alt="eitmg" /></a> </p>
 
-- :telescope:  I’m currently working on [CLI-gite](https://github.com/superdynamix/cli-gite)  :wink:
-
-- 🌱 I’m currently learning **DevOps**
+<!-- - :telescope:  I’m currently working on [CLI-gite](https://github.com/superdynamix/cli-gite)  :wink:
+ -->
+- 🌱 I’m currently learning **Angular**
 - 🌱 I’m currently doing Striks on **[LeetCode](https://leetcode.com/ahmed-hakim90)**
 
-- 💬 Ask me about **java, ts, js, Nodejs, Epxress, MongoDB, SQL, multi-threading, AWS, CI/CD, Docker**
+- 💬 Ask me about **Vuejs, Html, csss, scss, json, tailwind, boostrap, dart, fultter, CI/CD**
 
 - 📫 How to reach me [@eitmg](https://twitter.com/ahmed_hakim900), mail me [KroKing](mailto:ahmedabdulhakim90@gmail.com)
 
