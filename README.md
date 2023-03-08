@@ -11,18 +11,18 @@ This is where I open-source stuff either break them or build them.
 
 - 💬 Ask me about **Vuejs, Html, csss, scss, json, tailwind, boostrap, dart, fultter, CI/CD**
 
-- 📫 How to reach me [@eitmg](https://twitter.com/ahmed_hakim900), mail me [KroKing](mailto:ahmedabdulhakim90@gmail.com)
+- 📫 How to reach me [@ahmed_hakim900](https://twitter.com/ahmed_hakim900), mail me [ahmedabdulhakim90](mailto:ahmedabdulhakim90@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mahmoudgalal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
-<a href="https://twitter.com/eitmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/mahmoudgalal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahmoudgalalz" height="30" width="40" /></a> -->
+<a href="https://twitter.com/ahmed_hakim900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-abdulhakim-sayed-471752174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hakim90" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoudgalalzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudgalalzz" height="30" width="40" /></a>
-<a href="https://instagram.com/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kroking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kroking" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kroking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kroking" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21358969/ahmed-hakim90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed-hakim90" height="30" width="40" /></a>
+<a href="https://fb.com/ahmedabdulhakim900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedabdulhakim900" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudgalalz" height="30" width="40" /></a> -->
+<!-- <a href="https://codeforces.com/profile/kroking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kroking" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/ahmed-hakim90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed-hakim90" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
