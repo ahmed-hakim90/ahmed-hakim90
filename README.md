@@ -6,10 +6,10 @@ This is where I open-source stuff either break them or build them.
 
 <!-- - :telescope:  I’m currently working on [CLI-gite](https://github.com/superdynamix/cli-gite)  :wink:
  -->
-- 🌱 I’m currently learning **Angular**
-- 🌱 I’m currently doing Striks on **[LeetCode](https://leetcode.com/ahmed-hakim90)**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Vuejs, Html, csss, scss, json, tailwind, boostrap, dart, fultter, CI/CD**
+
+- 💬 Ask me about **Vuejs, Html, csss, scss, json, tailwind, boostrap, dart, fultter, Reactjs, Postman, CI/CD**
 
 - 📫 How to reach me [@ahmed_hakim900](https://twitter.com/ahmed_hakim900), mail me [ahmedabdulhakim90](mailto:ahmedabdulhakim90@gmail.com)
 
